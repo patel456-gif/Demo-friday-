@@ -18,6 +18,7 @@ public class DemoForGit {
     
         // making change 
         //pull change
+        // fetch change and merging    
     }
     
 }
